@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zefanyang
 - 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning git.
+- 🌱 I’m currently learning git and probability theory.
 - 💞️ I’m looking to collaborate on some research projects.
 - 📫 How to reach me 2016222016@email.szu.edu.cn.
 
