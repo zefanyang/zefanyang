@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zefanyang
-- 👀 I’m interested in **NLP**, **CV**, **Statistical Learnining**, and **Machine Learning**.
-- 🌱 I’m currently learning **LLMs**.
-- 💞️ I’m looking to collaborate on **exciting ideas**.
+- 👀 I’m interested in **NLP**, **CV**, **Statistical Learning**, and **Machine Learning**.
+- 🌱 I’m currently learning **ChatGPT** and its core technologies (LLMs, in-context learning, prompt engineering, etc.).
+- 💞️ I’m looking to collaborate on **innovative ideas**.
 - 📫 How to reach me yangz16@rpi.edu.
 
 <!---
