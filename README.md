@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zefanyang
-- 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning git and probability theory.
-- 💞️ I’m looking to collaborate on novel and .
+- 👀 I’m interested in **NLP**, **CV**, **Statistical Learnining**, and **Machine Learning**.
+- 🌱 I’m currently learning **LLMs**.
+- 💞️ I’m looking to collaborate on **exciting ideas**.
 - 📫 How to reach me yangz16@rpi.edu.
 
 <!---
