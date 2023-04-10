@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zefanyang
 - 👀 I’m interested in **NLP**, **CV**, **Statistical Learning**, and **Machine Learning**.
 - 🌱 I’m currently learning **ChatGPT's** core technologies (LLMs, in-context learning, prompt engineering, etc.).
-- 💞️ I’m looking to collaborate on **innovative ideas**.
-- 📫 How to reach me yangz16@rpi.edu.
+- 💞️ I’m VERY willing to collaborate on **innovative ideas**.
+- 📫 Feel free to contact me via yangz16@rpi.edu.
 
 <!---
 zefanyang/zefanyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
