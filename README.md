@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zefanyang
 - 👀 I’m interested in **Multimodality**, **NLP**, **CV**, **Statistical Learning**, and **Machine Learning**.
 - 🌱 I’m learning **foundation models**.
-- 💞️ I’m looking to collaborate on **innovative ideas**.
+- 💞️ I’m looking to collaborate on **focused, innovative ideas**.
 - 📫 Feel free to contact me via yangz16@rpi.edu.
 
 <!---
