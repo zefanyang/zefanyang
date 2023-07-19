@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zefanyang
-- 🤣 I'm a **research student, engineer, and adventurer**.
-- 👀 I’m interested in **Multimodality**, **NLP**, **CV**, **Statistical Learning**, and **Machine Learning**.
-- 🌱 I’m learning **foundation models**.
-- 💞️ I’m looking to collaborate on **focused, innovative ideas**.
+- 🤣 I'm a **research student**.
+- 👀 I’m interested in **NLP**, **CV**, **Statistical Learning**, and **Machine Learning**.
+- 🌱 I’m learning **large language models** and **foundation models**.
+- 💞️ I’m looking to collaborate on **up-to-date ideas**.
 - 📫 Feel free to contact me via yangz16@rpi.edu.
 
 <!---
