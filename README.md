@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zefanyang. I am passionate on research in medical AI. 
+- 👋 Hi, I’m @zefanyang. I am passionate about research in medical AI. 
 - 📫 Feel free to contact me via yangz16@rpi.edu.
 
 <!---
